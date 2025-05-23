@@ -48,7 +48,8 @@ This project leverages computer vision and machine learning to classify waste im
 
 Run the notebook in Google Colab to explore the model and test it with your own images:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/Dhamylare-lab/e8863c2a2934679d39837c8fc9eff2d2/ojo-lg-waste-vision.ipynb)
+[![Open In Colab]
+https://colab.research.google.com/gist/Dhamylare-lab/e8863c2a2934679d39837c8fc9eff2d2/ojo-lg-waste-vision.ipynb#scrollTo=hKHbKHcsDa8L&uniqifier=1
 
 ---
 

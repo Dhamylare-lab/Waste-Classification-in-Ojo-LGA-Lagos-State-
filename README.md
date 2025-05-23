@@ -33,7 +33,8 @@ The project uses a labeled dataset of waste images categorized into:
 
 Click the badge below to explore or test the project in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dhamylare-lab/Waste-Classification-in-Ojo-LGA-Lagos-State-/blob/main/waste_classification_intro.ipynb)
+[![Open In Colab]
+https://colab.research.google.com/gist/Dhamylare-lab/e8863c2a2934679d39837c8fc9eff2d2/ojo-lg-waste-vision.ipynb
 
 2. **Upload images** or use sample data
 
